@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle.cs", "Circle.cs\Circle.cs.csproj", "{54E7DB65-D978-43EF-ACD9-74E128418C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E7DB65-D978-43EF-ACD9-74E128418C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E7DB65-D978-43EF-ACD9-74E128418C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E7DB65-D978-43EF-ACD9-74E128418C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E7DB65-D978-43EF-ACD9-74E128418C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4A8063-F225-479C-8BAC-BEC5760EB739}
+	EndGlobalSection
+EndGlobal
